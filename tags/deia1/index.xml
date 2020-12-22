@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DEIA1 on Thijs Overmeer</title>
+    <link>https://thijsovermeer.github.io/tags/deia1/</link>
+    <description>Recent content in DEIA1 on Thijs Overmeer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Dec 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://thijsovermeer.github.io/tags/deia1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: BAS Trucks</title>
+      <link>https://thijsovermeer.github.io/post/project-1/</link>
+      <pubDate>Sat, 12 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://thijsovermeer.github.io/post/project-1/</guid>
+      <description>In the first semester, while studying at JADS, we made a dashboard for BAS trucks, which could predict in which certain vehicles were going to be sold. Unfortunately, this project&amp;rsquo;s code included sensitive information, thus can not be included here.
+  BAS Trucks   </description>
+    </item>
+    
+  </channel>
+</rss>

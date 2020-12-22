@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Thijs Overmeer</title>
+    <link>https://thijsovermeer.github.io/tags/</link>
+    <description>Recent content in Tags on Thijs Overmeer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Dec 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://thijsovermeer.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DEIA1</title>
+      <link>https://thijsovermeer.github.io/tags/deia1/</link>
+      <pubDate>Sat, 12 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://thijsovermeer.github.io/tags/deia1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
